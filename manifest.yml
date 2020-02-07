@@ -1,0 +1,4 @@
+applications:
+- name: node-introligatornia
+  memory: 128M
+  buildpack: sdk-for-nodejs
